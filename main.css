@@ -1,0 +1,36 @@
+*,
+*:before,
+*:after {
+  margin: 0px;
+  box-sizing: border-box;
+}
+header{
+  /*margin-left: 0px;*/
+  font-size: 48px;
+}
+body{
+  background-color: lightgrey;
+}
+
+.footer{
+  margin-left: 10px;
+}
+
+.card-content{
+  font-size: 18px;
+}
+.fine_print{
+  font-size: 10px;
+}
+
+#logo-container{
+  padding-left: 1px;
+}
+#index-banner{
+  background-image: url('img/hero.jpg');
+  background-repeat: no-repeat;
+}
+
+/*table{
+  width: 45%;
+}*/
